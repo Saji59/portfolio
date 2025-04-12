@@ -904,7 +904,9 @@ pre code {
 .offset-11 {
   margin-left: 91.66667%;
 }
-
+.img-wrappera{
+height: 140px;
+}
 @media (min-width: 576px) {
   .col-sm {
     -webkit-flex-basis: 0;
